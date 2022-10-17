@@ -1,4 +1,4 @@
-# practice-html-_bart
+# practice_html_bart
 
 This is the first project I did in BIT bootcamp. The goal was to create a basic static website using HTML only. 
 
